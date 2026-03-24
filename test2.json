@@ -1,5 +1,4 @@
-{
-  "footer": "Example",
+  "footer": "test",
   "entries": 
     {
       "version": "0.0.1",
@@ -8,9 +7,8 @@
       "type": ["新开副本"],
       "tags": [],
       "color": "0xFFFFFF00",
-      "changes": [
+      "changes": {
         "初始版本",
-        "测试"
-      ]
-}
-}
+        "测试",
+        }
+    }
