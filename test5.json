@@ -1,0 +1,39 @@
+{
+  "footer": "Example",
+  "entries": [
+
+
+    {        删：单个版本板块模板
+      "version": "1.0.0",      
+      "date": "2026-02-12",
+      "title": "Example",
+      "type": ["major","minor","patch","hotfix","danger"],
+      "tags": ["Example", "Example"],
+      "color": "0xFFFFFF00",
+      "changes": [
+        "Example",
+        "Example"
+      ]
+    },        删：如果多个版本日志，这里要加逗号
+
+
+
+    {
+      "version": "2.0.0",
+      "date": "2026-02-12",
+      "title": "Example",
+      "type": ["major","minor","patch","hotfix","danger"],
+      "tags": ["Example", "Example"],
+      "color": "0x0000FF00",
+      "changes": [
+        "Example",
+        "Example"
+      ]
+    }
+
+
+
+  ],
+  "tagColors": {
+  "Example": "#5555FF"}
+}
